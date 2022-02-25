@@ -4,11 +4,13 @@
 
 ### ` 🔍 OBJETIVOS`
 
-<p align="justify"></p>
+<p align="justify">Instalar um <i>Patch Panel</i> e uma tomada de telecomunicaçãp. Assim, será possível conectar os dispositos do escritório à internet por meio do armário de telecomunicações.</p>
 
-### ` 💡 CENÁRIO DE ESTUDO`
-
-* Domain Driven Design (DDD) in practice 
+### ` ✅ PROCEDIMENTOS`
+* Instalar um Patch Panel no armário de telecomunicações
+* Adicionar uma tomada de telecomunição no escritório
+* Conectar a tomada ao Patch Panel
+* Conectar os dispositivos do escritório à internet através da tomada de telecomunicação
 
 ### `🛠 FERRAMENTAS`
 
@@ -20,4 +22,4 @@
 
 <p>$ Baixar o Cisco Packet Tracer</p>
 
-<p>$ Executar os ambientes com a extensão .pak</p>
+<p>$ Executar o ambiente</p>
